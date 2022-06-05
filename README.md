@@ -1,5 +1,5 @@
 <h2> Hi, I'm Okey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47cin8t8j2y8xv1mkfwxd6vemz2wrxayx6g5krejp3&rid=giphy.gif&ct=g" width="230">
+<img align='center' src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47cin8t8j2y8xv1mkfwxd6vemz2wrxayx6g5krejp3&rid=giphy.gif&ct=g" width="230">
 <p><em>Software Enginner at <a href="http://www.decagonhq.com">Decagon Institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technical Writer <a href="https://www.diutocoinnews.com.ng">Diutocoinnews</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
