@@ -22,7 +22,7 @@ const okeyximo = {
                         mentor: "Obiora Lewis"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on java, React and C",
- os: "UBUNTU 22.04 Jammy JellyFish"
+ os: ["UBUNTU 22.04 Jammy JellyFish", "Os X"]
 }
 ```
 
