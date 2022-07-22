@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Okeyximo](https://img.shields.io/twitter/follow/okeyximo?style=social)](https://twitter.com/okeyximo)
-[![Linkedin: Okechukwu Onwuchekwa](https://img.shields.io/badge/-OkechukwuOnwuchekwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okechukwuonwuchekwa/)](https://www.linkedin.com/in/okechukwu-onwuchekwa-27b5a9148/)
+[![Linkedin: Okechukwu Onwuchekwa](https://img.shields.io/badge/-OkechukwuOnwuchekwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okechukwuonwuchekwa/)](https://www.linkedin.com/in/okechukwu-onwuchekwa)
 [![GitHub Okeyximo](https://img.shields.io/github/followers/okeyximo?label=follow&style=social)](https://github.com/okeyximo)
 
 
