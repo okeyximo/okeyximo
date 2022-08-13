@@ -1,5 +1,4 @@
 <h2> Hi, I'm Okey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='center' src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47cin8t8j2y8xv1mkfwxd6vemz2wrxayx6g5krejp3&rid=giphy.gif&ct=g" width="230">
 <p><em>Software Enginner at <a href="http://www.decagonhq.com">Decagon Institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technical Writer <a href="https://www.diutocoinnews.com.ng">Diutocoinnews</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,7 +7,7 @@
 [![GitHub Okeyximo](https://img.shields.io/github/followers/okeyximo?label=follow&style=social)](https://github.com/okeyximo)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const okeyximo = {
@@ -26,6 +25,6 @@ const okeyximo = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people and also love Chess</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people and also love Chess</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
