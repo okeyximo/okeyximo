@@ -1,5 +1,5 @@
 <h2> Hi, I'm Okey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="http://www.decagonhq.com">Decagon Institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technical Writer <a href="https://www.diutocoinnews.com.ng">Diutocoinnews</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.excelfore.com">Excelfore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Java Backend Engineer <a href="https://www.deelaa.com">Systemspecs Deelaa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Okeyximo](https://img.shields.io/twitter/follow/okeyximo?style=social)](https://twitter.com/okeyximo)
